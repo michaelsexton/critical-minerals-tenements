@@ -1,0 +1,2 @@
+Uses data from the Australian Critical Minerals Map 2022
+https://pid.geoscience.gov.au/dataset/ga/147741 and intersects the latitude and longitude values with the tenement boundaries provided by the state and territory surveys in the Web Feature Services (WFS).
